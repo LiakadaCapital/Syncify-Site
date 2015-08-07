@@ -43,7 +43,7 @@
           <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
               <h3>Join The Party Anywhere</h3>
-              <p class="lead">An app that lets you listen to music together, <u>live</u>, no matter where you are.<br>Coming Soon</p>
+              <p class="lead">An app that will Syncify your world with others.<br>Coming Soon</p>
             </div>
           </div>
           <div class="row">

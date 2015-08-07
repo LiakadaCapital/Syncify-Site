@@ -1150,6 +1150,11 @@ body .colapsed-menu::-webkit-scrollbar {
   font-weight: 300;
   color: white;
 }
+@media (max-width: 480px) {
+	.header-8-sub h3 {
+	  font-size: 25px;
+	}	
+}
 .header-8-sub .lead {
   font-size: 24px;
   font-weight: normal;
@@ -1157,6 +1162,11 @@ body .colapsed-menu::-webkit-scrollbar {
   text-align: center;
   font-weight: 300;
   color: black;
+}
+@media (max-width: 480px) {
+	.header-8-sub .lead {
+	  font-size: 18px;
+	}
 }
 .header-8-sub .background {
   background-image: url("../common-files/img/home.png");
