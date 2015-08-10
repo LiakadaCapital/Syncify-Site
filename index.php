@@ -53,6 +53,25 @@
           </div>
         </div>
       </section>
+      
+      <!-- footer-2 -->
+      <footer class="footer-2">
+        <div class="container">
+          <div class="social-btns pull-right">
+            <a href="#">
+              <div class="fui-facebook"></div>
+              <div class="fui-facebook"></div>
+            </a>
+            <a href="#">
+              <div class="fui-twitter"></div>
+              <div class="fui-twitter"></div>
+            </a>
+          </div>
+          <div class="additional-links">
+            Be sure to take a look at our <a href="#">Terms of Use</a> and <a href="https://www.iubenda.com/privacy-policy/554672/full-legal" target="_blank">Privacy Policy</a>
+          </div>
+        </div>
+      </footer>
      
     </div>
     <!-- Placed at the end of the document so the pages load faster -->
