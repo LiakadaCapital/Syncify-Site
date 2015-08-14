@@ -25,14 +25,27 @@
               <div class="navbar-header">
                 <button type="button" class="navbar-toggle"><span class="fui-list-columned"></span></button>
                 <a class="brand" href="index.php">
-                  <img src="common-files/icons/logo.png" width="50" height="auto" alt="">Syncify</a>
+                  <img src="common-files/icons/logo.png" width="30" height="auto" alt="">Syncify</a>
               </div>
               <div class="collapse navbar-collapse">
                 <ul class="nav">
-                  <li><a href="index.php">Home</a></li>
-                  <li><a href="contact.php">Contact</a>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Blog</a></li>
+                  <li><a href="#">Portfolio</a></li>
+                  <li><a href="#">Contact</a>
                   <li><a href="terms.php">Terms of Use</a></li>
-                  <li><a href="https://www.iubenda.com/privacy-policy/554672/full-legal" target="_blank">Privacy Policy</a></li>             
+                  <li><a href="https://www.iubenda.com/privacy-policy/554672/full-legal" target="_blank">Privacy Policy</a></li>
+               		<li>
+	               		
+			            <a href="#">
+			              <div class="fui-facebook"></div>
+			            </a>
+			            <a href="#">
+			              <div class="fui-twitter"></div>
+			            </a>
+			         
+               		</li>   
+               
                 </ul>
               </div>
             </div>
