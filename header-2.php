@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Headers</title>
+    <title>Syncify</title>
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
@@ -29,10 +29,8 @@
               </div>
               <div class="collapse navbar-collapse">
                 <ul class="nav">
-                  <li><a href="#">Home</a></li>
-                  <li><a href="#">Blog</a></li>
-                  <li><a href="#">Portfolio</a></li>
-                  <li><a href="#">Contact</a>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="contact.php">Contact</a>
                   <li><a href="terms.php">Terms of Use</a></li>
                   <li><a href="https://www.iubenda.com/privacy-policy/554672/full-legal" target="_blank">Privacy Policy</a></li>
                		<li>
