@@ -10,7 +10,7 @@
           </div>
           <div class="row">
             <div class="col-sm-8 col-sm-offset-2">
-              <img src="img/Iphone-6-Plus.png" width="320" height="auto" alt="">
+              <img src="img/Iphone-6-Plus.png" width="auto" height="234" alt="">
             </div>
           </div>
         </div>
