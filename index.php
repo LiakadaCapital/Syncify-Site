@@ -5,12 +5,13 @@
           <div class="row">
             <div class="col-sm-6 col-sm-offset-3">
               <h3>Join The Party Anywhere</h3>
-              <p class="lead">An app that will Syncify your world with others.<br>Coming Soon</p>
+              <p class="lead">An app that will Syncify your world with others.<br><a href="https://itunes.apple.com/us/app/id1020953115" target="_blank"><img src="img/badge-download-on-the-app-store.png" width="150" height="auto"></a></p>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-8 col-sm-offset-2">
               <img src="img/Iphone-6-Plus.png" width="auto" height="234" alt="">
+              
             </div>
           </div>
         </div>
