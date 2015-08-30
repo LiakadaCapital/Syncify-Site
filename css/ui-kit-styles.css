@@ -1182,7 +1182,7 @@ body .colapsed-menu::-webkit-scrollbar {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 @media (max-width: 480px) {
 	.header-8-sub img {
