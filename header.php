@@ -6,6 +6,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-itunes-app" content="app-id=1020953115, affiliate-data=myAffiliateData, app-argument=https://itunes.apple.com/us/app/id1020953115">
     <link rel="shortcut icon" href="common-files/icons/favicon.png">
     <link rel="stylesheet" href="flat-ui/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="flat-ui/css/flat-ui.css">
